@@ -1,2 +1,8 @@
-# gulp-demo
-use gulp plugins, and test it
+# test gulp plugins
+##gulp-browserify
+##gulp-concat
+##gulp-jshint
+##gulp-rename
+##gulp-uglify
+##gulp-mocha
+##gulp-imagemin
